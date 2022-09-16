@@ -1,0 +1,37 @@
+body{
+    background-image: url("images/img-pass.jfif");
+    background-size: 1280px 620px;
+}
+.heading{
+    border: 1px;
+    text-align: center;
+    color: #54CDFF;
+    font-family: system-ui;
+}
+#password{
+    position: absolute;
+    left: 530px;
+    top: 280px;
+    font-size: 20px;
+    background-color: #5D9F77;
+}
+ul li{
+    list-style: none;
+    font-size: 10px;
+    color: white;
+}
+ul{
+    position: absolute;
+    left: 490px;
+    top: 300px;
+}
+.before{
+    display: block;
+}
+.after{
+    display: none;
+}
+.success{
+    color: green;
+    font-size: 30px;
+}
